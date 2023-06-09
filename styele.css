@@ -1,0 +1,145 @@
+
+    body,html {
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+        background-image: radial-gradient(ellipse at bottom, #1b2735 5%, #090a0f 100%);
+       background-size: cover;
+        
+       
+
+    }
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-image: radial-gradient(ellipse at bottom, #1b2735 5%, #090a0f 100%);
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow: hidden;
+    }
+    
+    @media (max-width: 768px) {
+        
+        body {
+            background-size: contain;
+        }
+    }
+    
+    #starbig {
+        width: 3px;
+        height: 3px;
+        background-color: white
+    }
+
+    .star1 {
+        position: relative;
+        top: 50vh;
+        left: 30vh;
+
+    }
+
+    .star2 {
+        position: relative;
+        top: 30vh;
+        left: 10vh;
+    }
+
+    .star3 {
+        position: relative;
+        top: 90vh;
+        left: 50vh;
+    }
+
+    .star4 {
+        position: relative;
+        top: 30vh;
+        left: 60vh;
+    }
+
+    .star5 {
+        position: relative;
+        top: 70vh;
+        left: 80vh;
+    }
+    .star6 {
+        position: relative;
+        top: 10vh;
+        left: 80vh;
+    }
+    .star7 {
+        position: relative;
+        top: 70vh;
+        left: 10vh;
+    }
+    .star8 {
+        position: relative;
+        top: 30vh;
+        left: 90vh;
+    }
+    .star9 {
+        position: relative;
+        top: 90vh;
+        left: 30vh;
+    }
+    .star19 {
+        position: relative;
+        top: 60vh;
+        left: 200vh;
+    }
+    .star20 {
+        position: relative;
+        top: 60vh;
+        left: 200vh;
+    }
+    .star18 {
+        position: relative;
+        top: 60vh;
+        left: 160vh;
+    }
+    .star17 {
+        position: relative;
+        top: 70vh;
+        left: 150vh;
+    }
+    .star16 {
+        position: relative;
+        top: 90vh;
+        left: 120vh;
+    }
+    .star15 {
+        position: relative;
+        top: 30vh;
+        left: 190vh;
+    }
+    .star14 {
+        position: relative;
+        top: 80vh;
+        left: 180vh;
+    }
+    .star13 {
+        position: relative;
+        top: 70vh;
+        left: 170vh;
+    }
+    .star12 {
+        position: relative;
+        top: 90vh;
+        left: 150vh;
+    }
+    .star11 {
+        position: relative;
+        top: 10vh;
+        left: 150vh;
+    }
+    .stroked-text {
+        position: absolute;
+        z-index: 1;
+        font-size: 100px;
+        color: transparent;
+        
+      
