@@ -1,4 +1,11 @@
 
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
     body,html {
         margin: 0px;
         padding: 0px;
@@ -9,13 +16,6 @@
        
 
     }
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-    
     body {
         background-image: radial-gradient(ellipse at bottom, #1b2735 5%, #090a0f 100%);
         background-repeat: no-repeat;
